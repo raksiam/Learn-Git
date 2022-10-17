@@ -7,5 +7,6 @@ public class Diff{
     }else{
       System.out.println("The difference of the numbers is " + (num2-num1);
     }
+    System.out.println("Hi GitHub");
   }
 }
